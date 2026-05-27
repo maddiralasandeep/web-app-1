@@ -5,6 +5,6 @@ window._config = {
         region: 'us-east-2',
     },
     api: {
-        invokeUrl: '',
+        invokeUrl: 'https://m2orybebu3.execute-api.us-east-2.amazonaws.com/Dev',
     }
 };
